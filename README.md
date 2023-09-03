@@ -1,2 +1,2 @@
-# PrepCourseHenry
-Este es un repositorio de prueba del modulo 2
+Esteban Nuñez
+Este proyecto es una prueba de como puedo crear un repositorio y clonarlo a mi computadora
